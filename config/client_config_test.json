@@ -1,0 +1,11 @@
+{
+  "logger": {
+    "level": "DEBUG",
+    "add_source": true
+  },
+  "server": "server:8080",
+  "client": {
+    "timeout_s": 5,
+    "sleep_s": 10
+  }
+}

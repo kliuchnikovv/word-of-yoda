@@ -1,0 +1,364 @@
+{
+  "quotes": [
+    {
+      "id": "yoda_001",
+      "text": "Do or do not, there is no try.",
+      "source": "The Empire Strikes Back",
+      "episode": "Episode V",
+      "year": 1980,
+      "category": "wisdom"
+    },
+    {
+      "id": "yoda_002",
+      "text": "Fear is the path to the dark side. Fear leads to anger, anger leads to hate, hate leads to suffering.",
+      "source": "The Phantom Menace",
+      "episode": "Episode I",
+      "year": 1999,
+      "category": "warning"
+    },
+    {
+      "id": "yoda_003",
+      "text": "Size matters not. Look at me. Judge me by my size, do you?",
+      "source": "The Empire Strikes Back",
+      "episode": "Episode V",
+      "year": 1980,
+      "category": "wisdom"
+    },
+    {
+      "id": "yoda_004",
+      "text": "You must unlearn what you have learned.",
+      "source": "The Empire Strikes Back",
+      "episode": "Episode V",
+      "year": 1980,
+      "category": "wisdom"
+    },
+    {
+      "id": "yoda_005",
+      "text": "A Jedi uses the Force for knowledge and defense, never for attack.",
+      "source": "The Empire Strikes Back",
+      "episode": "Episode V",
+      "year": 1980,
+      "category": "wisdom"
+    },
+    {
+      "id": "yoda_006",
+      "text": "Patience you must have, my young Padawan.",
+      "source": "Attack of the Clones",
+      "episode": "Episode II",
+      "year": 2002,
+      "category": "wisdom"
+    },
+    {
+      "id": "yoda_007",
+      "text": "When nine hundred years old you reach, look as good you will not.",
+      "source": "Return of the Jedi",
+      "episode": "Episode VI",
+      "year": 1983,
+      "category": "humor"
+    },
+    {
+      "id": "yoda_008",
+      "text": "Strong with the Force you are, but not that strong.",
+      "source": "The Empire Strikes Back",
+      "episode": "Episode V",
+      "year": 1980,
+      "category": "wisdom"
+    },
+    {
+      "id": "yoda_009",
+      "text": "Wars not make one great.",
+      "source": "The Empire Strikes Back",
+      "episode": "Episode V",
+      "year": 1980,
+      "category": "wisdom"
+    },
+    {
+      "id": "yoda_010",
+      "text": "Luminous beings are we, not this crude matter.",
+      "source": "The Empire Strikes Back",
+      "episode": "Episode V",
+      "year": 1980,
+      "category": "wisdom"
+    },
+    {
+      "id": "yoda_011",
+      "text": "The greatest teacher, failure is.",
+      "source": "The Last Jedi",
+      "episode": "Episode VIII",
+      "year": 2017,
+      "category": "wisdom"
+    },
+    {
+      "id": "yoda_012",
+      "text": "Pass on what you have learned.",
+      "source": "Return of the Jedi",
+      "episode": "Episode VI",
+      "year": 1983,
+      "category": "wisdom"
+    },
+    {
+      "id": "yoda_013",
+      "text": "Always in motion is the future.",
+      "source": "The Empire Strikes Back",
+      "episode": "Episode V",
+      "year": 1980,
+      "category": "wisdom"
+    },
+    {
+      "id": "yoda_014",
+      "text": "Much to learn you still have.",
+      "source": "Attack of the Clones",
+      "episode": "Episode II",
+      "year": 2002,
+      "category": "wisdom"
+    },
+    {
+      "id": "yoda_015",
+      "text": "Truly wonderful, the mind of a child is.",
+      "source": "Attack of the Clones",
+      "episode": "Episode II",
+      "year": 2002,
+      "category": "wisdom"
+    },
+    {
+      "id": "yoda_016",
+      "text": "Control, control, you must learn control!",
+      "source": "The Empire Strikes Back",
+      "episode": "Episode V",
+      "year": 1980,
+      "category": "wisdom"
+    },
+    {
+      "id": "yoda_017",
+      "text": "Attachment leads to jealousy. The shadow of greed, that is.",
+      "source": "Revenge of the Sith",
+      "episode": "Episode III",
+      "year": 2005,
+      "category": "warning"
+    },
+    {
+      "id": "yoda_018",
+      "text": "Train yourself to let go of everything you fear to lose.",
+      "source": "Revenge of the Sith",
+      "episode": "Episode III",
+      "year": 2005,
+      "category": "wisdom"
+    },
+    {
+      "id": "yoda_019",
+      "text": "Death is a natural part of life. Rejoice for those around you who transform into the Force.",
+      "source": "Revenge of the Sith",
+      "episode": "Episode III",
+      "year": 2005,
+      "category": "wisdom"
+    },
+    {
+      "id": "yoda_020",
+      "text": "Clouded this boy's future is.",
+      "source": "The Phantom Menace",
+      "episode": "Episode I",
+      "year": 1999,
+      "category": "warning"
+    },
+    {
+      "id": "yoda_021",
+      "text": "Difficult to see. Always in motion is the future.",
+      "source": "The Empire Strikes Back",
+      "episode": "Episode V",
+      "year": 1980,
+      "category": "wisdom"
+    },
+    {
+      "id": "yoda_022",
+      "text": "Ready are you? What know you of ready?",
+      "source": "The Empire Strikes Back",
+      "episode": "Episode V",
+      "year": 1980,
+      "category": "wisdom"
+    },
+    {
+      "id": "yoda_023",
+      "text": "Adventure. Excitement. A Jedi craves not these things.",
+      "source": "The Empire Strikes Back",
+      "episode": "Episode V",
+      "year": 1980,
+      "category": "wisdom"
+    },
+    {
+      "id": "yoda_024",
+      "text": "That is why you fail.",
+      "source": "The Empire Strikes Back",
+      "episode": "Episode V",
+      "year": 1980,
+      "category": "wisdom"
+    },
+    {
+      "id": "yoda_025",
+      "text": "Your path you must decide.",
+      "source": "The Empire Strikes Back",
+      "episode": "Episode V",
+      "year": 1980,
+      "category": "wisdom"
+    },
+    {
+      "id": "yoda_026",
+      "text": "Lost a planet Master Obi-Wan has. How embarrassing.",
+      "source": "Attack of the Clones",
+      "episode": "Episode II",
+      "year": 2002,
+      "category": "humor"
+    },
+    {
+      "id": "yoda_027",
+      "text": "Anger, fear, aggression; the dark side of the Force are they.",
+      "source": "The Empire Strikes Back",
+      "episode": "Episode V",
+      "year": 1980,
+      "category": "warning"
+    },
+    {
+      "id": "yoda_028",
+      "text": "Strong am I with the Force, but not that strong.",
+      "source": "The Empire Strikes Back",
+      "episode": "Episode V",
+      "year": 1980,
+      "category": "wisdom"
+    },
+    {
+      "id": "yoda_029",
+      "text": "Once you start down the dark path, forever will it dominate your destiny.",
+      "source": "Return of the Jedi",
+      "episode": "Episode VI",
+      "year": 1983,
+      "category": "warning"
+    },
+    {
+      "id": "yoda_030",
+      "text": "My ally is the Force, and a powerful ally it is.",
+      "source": "The Empire Strikes Back",
+      "episode": "Episode V",
+      "year": 1980,
+      "category": "wisdom"
+    },
+    {
+      "id": "yoda_031",
+      "text": "Consume you it will, as it did Obi-Wan's apprentice.",
+      "source": "Return of the Jedi",
+      "episode": "Episode VI",
+      "year": 1983,
+      "category": "warning"
+    },
+    {
+      "id": "yoda_032",
+      "text": "Wisdom comes from trial and error.",
+      "source": "The Clone Wars",
+      "episode": "TV Series",
+      "year": 2008,
+      "category": "wisdom"
+    },
+    {
+      "id": "yoda_033",
+      "text": "Good relations with the Wookiees, I have.",
+      "source": "Revenge of the Sith",
+      "episode": "Episode III",
+      "year": 2005,
+      "category": "humor"
+    },
+    {
+      "id": "yoda_034",
+      "text": "To answer power with power, the Jedi way this is not.",
+      "source": "The Clone Wars",
+      "episode": "TV Series",
+      "year": 2008,
+      "category": "wisdom"
+    },
+    {
+      "id": "yoda_035",
+      "text": "In the end, cowards are those who follow the dark side.",
+      "source": "The Clone Wars",
+      "episode": "TV Series",
+      "year": 2008,
+      "category": "wisdom"
+    },
+    {
+      "id": "yoda_036",
+      "text": "Clear your mind must be if you are to discover the real villains behind this plot.",
+      "source": "Attack of the Clones",
+      "episode": "Episode II",
+      "year": 2002,
+      "category": "wisdom"
+    },
+    {
+      "id": "yoda_037",
+      "text": "Mmm. Lost a planet, Master Obi-Wan has. How embarrassing... how embarrassing.",
+      "source": "Attack of the Clones",
+      "episode": "Episode II",
+      "year": 2002,
+      "category": "humor"
+    },
+    {
+      "id": "yoda_038",
+      "text": "When you look at the dark side, careful you must be... for the dark side looks back.",
+      "source": "The Clone Wars",
+      "episode": "TV Series",
+      "year": 2008,
+      "category": "warning"
+    },
+    {
+      "id": "yoda_039",
+      "text": "Powerful you have become, the dark side I sense in you.",
+      "source": "Return of the Jedi",
+      "episode": "Episode VI",
+      "year": 1983,
+      "category": "warning"
+    },
+    {
+      "id": "yoda_040",
+      "text": "Help you I can, but first must you be still.",
+      "source": "The Empire Strikes Back",
+      "episode": "Episode V",
+      "year": 1980,
+      "category": "wisdom"
+    },
+    {
+      "id": "yoda_041",
+      "text": "Begun the Clone War has.",
+      "source": "Attack of the Clones",
+      "episode": "Episode II",
+      "year": 2002,
+      "category": "warning"
+    },
+    {
+      "id": "yoda_042",
+      "text": "Many of the truths that we cling to depend on our point of view.",
+      "source": "Return of the Jedi",
+      "episode": "Episode VI",
+      "year": 1983,
+      "category": "wisdom"
+    },
+    {
+      "id": "yoda_043",
+      "text": "Page turners they were not.",
+      "source": "The Last Jedi",
+      "episode": "Episode VIII",
+      "year": 2017,
+      "category": "humor"
+    },
+    {
+      "id": "yoda_044",
+      "text": "We are what they grow beyond. That is the true burden of all masters.",
+      "source": "The Last Jedi",
+      "episode": "Episode VIII",
+      "year": 2017,
+      "category": "wisdom"
+    },
+    {
+      "id": "yoda_045",
+      "text": "The Force will be with you, always.",
+      "source": "Return of the Jedi",
+      "episode": "Episode VI",
+      "year": 1983,
+      "category": "wisdom"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+services:
+  redis:
+    image: redis:7-alpine
+    ports:
+      - "6379:6379"
+    command: redis-server --appendonly yes
+    volumes:
+      - redis_data:/data
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 10s
+      timeout: 5s
+      retries: 3
+    networks:
+      - word-of-yoda-network
+
+  server:
+    build:
+      context: .
+      dockerfile: cmd/server/Dockerfile
+    depends_on:
+      redis:
+        condition: service_healthy
+    environment:
+      - CONFIG_PATH=/app/config/server_config_test.json
+    ports:
+      - "8080:8080"
+    networks:
+      - word-of-yoda-network
+    deploy:
+      restart_policy:
+        condition: on-failure
+        max_attempts: 3
+
+  client:
+    build:
+      context: .
+      dockerfile: cmd/client/Dockerfile
+    depends_on:
+      - server
+    environment:
+      - SERVER_HOST=server
+      - SERVER_PORT=8080
+      - CONFIG_PATH=/app/config/client_config_test.json
+    networks:
+      - word-of-yoda-network
+    deploy:
+      restart_policy:
+        condition: on-failure
+        max_attempts: 3
+
+volumes:
+  redis_data:
+
+networks:
+  word-of-yoda-network:
+    driver: bridge

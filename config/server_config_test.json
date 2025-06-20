@@ -1,0 +1,16 @@
+{
+  "logger": {
+    "level": "DEBUG",
+    "add_source": true
+  },
+  "server": {
+    "address": "server:8080",
+    "ttl_s": 3600,
+    "difficulty": 5,
+    "timeout_s": 10
+  },
+  "redis": {
+    "addr": "redis:6379",
+    "password": ""
+  }
+}
